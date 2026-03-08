@@ -1,181 +1,104 @@
-# Ilyes Kharoubi  
-### Network & Systems Integration Specialist
+# Ilyes Kharoubi
+## Network & Systems Integration Specialist
 
-🌍 Algeria | Open to Relocation  
-📧 ilyeskharoubi25@gmail.com  
-
----
-
-## 👋 Hello, I'm Ilyes
-
-I'm a **Network & Systems Integration Specialist** passionate about building secure, reliable, and high-performance infrastructure.  
-
-I specialize in **enterprise networking, systems integration, and telecommunications infrastructure**, combining hands-on deployment experience with strong technical planning.
-
-My goal is simple: **design networks that work flawlessly, scale efficiently, and stay secure.**
+[//]: # (Using an image placeholder - replace with your actual professional headshot or a relevant graphic if desired)
+<div align="center">
+    <img src="https://via.placeholder.com/200x200?text=Ilyes+K." alt="Ilyes Kharoubi" width="200" style="border-radius: 50%;"/>
+</div>
 
 ---
 
-# 🚀 About Me
+### 👋 Hello, I'm Ilyes.
 
-I’m a trilingual network specialist with experience designing and maintaining **enterprise-grade IP infrastructures and high-availability systems**. Over the past few years, I have worked on complex telecommunications environments where reliability and security are mission-critical.
+I'm a trilingual Network and Systems Specialist with a passion for building robust, high-availability digital infrastructure. Based in Algeria and open to global opportunities, I thrive on the challenge of designing and deploying complex networks that serve as the backbone for modern communication.
 
-My work spans the entire network lifecycle — from **fiber optic infrastructure and physical cabling deployment to advanced routing, switching, and secure network configuration**. I enjoy transforming complex technical requirements into robust, well-architected systems that support hundreds of users without disruption.
-
-I thrive in environments where **precision, discipline, and technical excellence** matter. Whether deploying infrastructure, optimizing network performance, or troubleshooting critical systems, I take pride in delivering solutions that organizations can rely on.
+Welcome to my digital space—a portfolio where you can explore my journey, my technical toolkit, and the projects that define my career.
 
 ---
 
-# 🧠 Core Skills
+### 👨‍💻 About Me
 
-## Networking
-- Cisco Routing & Switching (CCNA Level)
-- TCP/IP
-- DNS
-- DHCP
-- NAT
-- VPN
-- VLAN Configuration
-- OSPF Routing
-- Access Control Lists (ACL)
+With over two years of hands-on experience in enterprise-grade IP infrastructure, I've developed a deep appreciation for the intricacies of a perfectly connected system. My approach to networking is holistic: I believe that true expertise lies not just in configuring a router, but in understanding the physical layer—from the fusion splice in a fiber optic cable to the strategic placement of a server in a data center. This end-to-end perspective allows me to build networks that are not only fast but resilient and secure.
 
-## Infrastructure & Physical Layer
-- Fiber Optic Splicing
-- OTDR Testing
-- Structured Cabling (Cat6 / Cat7)
-- Data Center Hardware
-- Network Architecture Design
-
-## Systems & Platforms
-- Windows Server 2019
-- Linux (Ubuntu / Debian)
-
-## Tools
-- Wireshark
-- Cisco Packet Tracer
-- GNS3
-- Network Monitoring Tools
-
-## Documentation & Planning
-- Network Topology Design
-- Infrastructure Documentation
-- Technical Reports
-- Systems Mapping
-
-## Soft Skills
-- Problem Solving
-- Technical Troubleshooting
-- Operational Discipline
-- Team Leadership
-- Strategic Planning
+I'm deeply motivated by the integration of technology to solve real-world problems. Whether it's unifying disparate communication platforms into a single, secure IP network or maintaining 99.9% uptime for critical telecommunications hubs, I focus on creating solutions that are both elegant and dependable. I'm now eager to bring this blend of technical discipline and creative problem-solving to new challenges on a larger scale.
 
 ---
 
-# 💼 Professional Experience
+### 🛠️ Core Skills
 
-### Network & Systems Specialist  
-**Telecommunications Transmission Center – Defense Sector**  
-Reghaïa, Algeria  
-*Aug 2023 — Present*
+#### Networking & Security
+- **Protocols & Technologies:** TCP/IP, OSPF, DNS, DHCP, NAT, VPN, VLANs, ACLs
+- **Hardware:** Cisco Routing & Switching (CCNA Level), Data Center Hardware
+- **Infrastructure:** Fiber Optic Splicing & Testing (OTDR), Structured Cabling (Cat6/7)
+- **Tools:** Wireshark, Packet Tracer, GNS3, Network Monitoring Tools
 
-**Key Contributions**
+#### Systems & Administration
+- **Operating Systems:** Windows Server 2019, Linux (Ubuntu/Debian)
+- **Documentation:** Network Diagrams, Topology Mapping, Technical Reports
+- **Hardware Lifecycle:** Server Maintenance, Hardware Deployment & Management
 
-- **Designed and deployed** the full LAN/WAN architecture for a secure telecommunications center supporting **300+ users** with **zero critical downtime**.
-  
-- Implemented the **physical infrastructure layer**, including structured **Cat6/Cat7 cabling and fiber optic deployment**, with **fusion splicing and OTDR testing** for long-distance data links.
-
-- Integrated **voice, video, and data communication systems** into a unified **secure IP infrastructure**, improving bandwidth efficiency and operational reliability.
-
-- Configured advanced networking components including:
-  - VLAN segmentation
-  - OSPF routing
-  - Access Control Lists (ACLs)
-
-- Managed **server environments (Windows & Linux)** and led **hardware lifecycle management**, ensuring continuous system availability.
-
-- Acted as the **lead technical responder for network incidents**, diagnosing and resolving outages rapidly to maintain operational continuity.
+#### Languages & Soft Skills
+- **Human Languages:** Arabic (Native), English (Professional C1), French (Advanced)
+- **Core Competencies:** Strategic Operations, Team Leadership, Crisis Management, Technical Problem-Solving, Cross-functional Communication
 
 ---
 
-# 🛠 Featured Projects
+### 💼 Professional Experience
 
-## Nationwide UDP Multicast Network Deployment
-**Tech Stack:** Cisco Networking, UDP Multicast, Enterprise Routing  
+| | |
+| :--- | :--- |
+| **Network & Systems Specialist** | **Telecommunications Transmission Center (Defense Sector), Reghaia** |
+| | *08/2023 - Present* |
 
-Designed and deployed a **large-scale multicast network infrastructure** to support efficient data distribution across multiple network nodes. The solution significantly improved **bandwidth efficiency and real-time communication performance**.
-
----
-
-## Optical Fiber Backbone Installation
-**Tech Stack:** Fiber Optics, OTDR Testing, Infrastructure Deployment  
-
-Led the installation and validation of an **optical fiber backbone**, including fusion splicing and full **OTDR signal validation**. This infrastructure enabled **high-speed long-distance communication links** for mission-critical systems.
-
----
-
-## Converged IP Infrastructure Integration
-**Tech Stack:** IP Networking, VLANs, Routing Protocols  
-
-Integrated **voice, video, and data services** into a **single secure IP network**, optimizing communication systems and simplifying infrastructure management.
+- **Architected and deployed** a secure, full-scale LAN/WAN topology for a high-stakes telecommunications center, supporting **300+ users** with zero critical downtime.
+- **Engineered the physical layer**, overseeing the installation of structured cabling and fiber optics, including fusion splicing and rigorous OTDR validation for long-distance data links.
+- **Integrated diverse communication platforms** (Voice, Video, Data) into a unified, secure IP network, significantly optimizing bandwidth and data flow efficiency.
+- **Hardened network security** by configuring VLANs, OSPF routing, and Access Control Lists (ACLs) to ensure strict data privacy and system integrity.
+- **Led technical operations**, including hardware lifecycle management, cross-platform server maintenance (Windows/Linux), and rapid on-call troubleshooting of network outages.
 
 ---
 
-# 🎓 Education
+### 🚀 Featured Projects
 
-### Post-Graduate Specialization in Telecommunications  
-**École Supérieure des Techniques de l'Aéronautique (ESTA)**  
-2023  
+#### Nationwide UDP Multicast Network Deployment
+- **Tech Stack:** Cisco IOS, UDP Multicast protocols, OSPF, Wireshark
+- **Impact:** Architected and configured the deployment of a UDP Multicast network, enabling efficient one-to-many data transmission across a wide geographical area. This project drastically reduced bandwidth load for streaming critical data compared to traditional unicast methods.
 
-Focus Areas:
-- High-Frequency Transmission Systems  
-- Secure Network Protocols  
-
-Grade: **Good (Assez Bien)**
+#### Optical Fiber Backbone Installation with OTDR Validation
+- **Tech Stack:** Fiber Optic Splicing, OTDR, Data Center Hardware, Structured Cabling
+- **Impact:** Managed the end-to-end physical installation of a new optical fiber backbone. Performed meticulous fusion splicing and utilized OTDR testing to validate signal integrity and pinpoint any issues, ensuring a flawless, high-speed foundation for all network traffic.
 
 ---
 
-### Bachelor of Science in Aeronautics  
-Major: **Technical Installations**  
-**École Supérieure des Techniques de l'Aéronautique (ESTA)**  
-2019 — 2022  
+### 🎓 Education & Certifications
 
-🏆 **Valedictorian — 1st in Class**
+#### Education
+- **Post-Graduate Specialization in Telecommunications** | École Supérieure des Techniques de l'Aéronautique (ESTA) | *2023* | *Grade: Good (Assez Bien)*
+    - *Focus: Advanced high-frequency transmission systems and secure network protocols.*
 
-Focus Areas:
-- Engineering of Complex Technical Systems
-- Infrastructure Engineering
+- **Bachelor of Science in Aeronautics (Major: Technical Installations)** | École Supérieure des Techniques de l'Aéronautique (ESTA) | *2019 - 2022*
+    - *Focus: Engineering of complex technical systems and infrastructure.*
+    - *Rank: Valedictorian (1st in Class)*
 
----
-
-# 📜 Certifications
-
-- **Cisco Certified Network Associate (CCNA)** — *In Progress*
-- **Microsoft Office Specialist** — 2024
-- **Advanced English Proficiency (CEFR C1)** — University of Algiers 2
-- **Leadership & Strategic Operations Training** — Cherchell Academy
+#### Certifications
+- **Cisco Certified Network Associate (CCNA)** | *In Progress*
+- **Certificate of Advanced English Proficiency (CEFR C1)** | University of Algiers 2 | *2022*
+- **Microsoft Office Specialist** | *2024*
+- **Leadership & Strategic Operations Training** | Cherchell Academy | *2019*
 
 ---
 
-# 🌍 Languages
+### 📫 Let's Connect
 
-- Arabic — Native  
-- English — Professional (C1)  
-- French — Advanced
+I'm always open to discussing new opportunities, collaborating on interesting projects, or just connecting with fellow tech enthusiasts.
 
----
+<div align="center">
+    <a href="mailto:ilyeskharoubi25@gmail.com">📧 Email</a> |
+    <a href="https://www.linkedin.com/in/your-profile/">💼 LinkedIn</a> |
+    <a href="https://github.com/your-username">🐙 GitHub</a>
+</div>
 
-# 🤝 Let's Connect
-
-I'm always open to discussing **network engineering, infrastructure projects, and international opportunities**.
-
-📧 **Email:** ilyeskharoubi25@gmail.com  
-
-💼 **LinkedIn:**  
-*(Add your LinkedIn profile link here)*
-
-💻 **GitHub:**  
-*(Add your GitHub profile link here)*
-
----
-
-⭐ *If you found my work interesting, feel free to connect or explore my projects.*
+<br>
+<div align="center">
+    <i>Open to relocation and seeking employer sponsorship (GCC). Valid International Driving Permit.</i>
+</div>
