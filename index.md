@@ -95,5 +95,5 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
 
 <br>
 <div align="center">
-    <i>Open to relocation and seeking employer sponsorship (GCC). Valid International Driving Permit.</i>
+    <i>Open to relocation and seeking employer sponsorship. Valid International Driving Permit.</i>
 </div>
