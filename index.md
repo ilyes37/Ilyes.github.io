@@ -94,8 +94,8 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
 
 <div align="center">
     <a href="mailto:ilyeskharoubi25@gmail.com">📧 Email</a> |
-    <a href="https://www.linkedin.com/in/your-profile/">💼 LinkedIn</a> |
-    <a href="https://github.com/your-username">🐙 GitHub</a>
+    <a href="www.linkedin.com/in/ilyes-kharoubi-6745073a5">💼 LinkedIn</a> |
+    <a href="https://github.com/ilyes37">🐙 GitHub</a>
 </div>
 
 <br>
