@@ -1,11 +1,6 @@
 # Ilyes Kharoubi
 ## Network & Systems Integration Specialist
 
-[//]: # (Using an image placeholder - replace with your actual professional headshot or a relevant graphic if desired)
-<div align="center">
-    <img src="https://via.placeholder.com/200x200?text=Ilyes+K." alt="Ilyes Kharoubi" width="200" style="border-radius: 50%;"/>
-</div>
-
 ---
 
 ### 👋 Hello, I'm Ilyes.
